@@ -1,6 +1,11 @@
+# Environment
+.env
+.venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
+*.py[cod]
 *$py.class
 
 # C extensions
@@ -78,6 +83,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb_checkpoints/
 
 # IPython
 profile_default/
